@@ -1,1 +1,1 @@
-__This is mandatory in all ALX projects__
+__This is ALX__
